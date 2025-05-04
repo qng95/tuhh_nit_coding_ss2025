@@ -1,0 +1,19 @@
+Example Project Ideas
+
+* Using Raspberry Pi / Arduino / Microbit to make LED blink.
+* Interactive Web Application that bring useful application to users.
+* Doing some automation with real-world APIs
+    - List of available public API https://github.com/public-apis/public-apis
+    - > 2 APIs should be enough
+
+* Form teams to do project
+    - Decide on Team name.
+    - Who are in your team.
+    - Project Title.
+    - The problem that the project trying to solve (Goal / Purpose).
+        - 3 to 5 sentence really explain the story behind.
+    - Create paper or documents of the project.
+        - Describe functional decription.
+        - Create user stories.
+        - 3 Technical acceptant criteria.
+    
